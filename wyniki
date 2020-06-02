@@ -1,0 +1,6 @@
+tutaj jest mniejszy lr uczenia
+
+checkpoint last daje 4.61 (valid ppl daje 13.38 podczas treningu)
+
+
+224 daje 4.33
