@@ -13,4 +13,5 @@ def split_to_chunks(file_in_path, file_out_path):
     f_in.close()
     f_out.close()
 
-split_to_chunks('data/dev.input0.spm','data/dev.input0.spmout')
+split_to_chunks('data/dev.input0.spm.alllens','data/dev.input0.spm')
+split_to_chunks('data/train.input0.spm.alllens','data/train.input0.spm')
